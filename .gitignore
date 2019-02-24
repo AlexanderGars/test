@@ -1,0 +1,8 @@
+.idea
+bower_components/
+node_modules/
+sass/
+/bower.json
+/gulpfile.js
+/package.json
+/package-lock.json
